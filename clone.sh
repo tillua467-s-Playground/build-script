@@ -13,3 +13,5 @@ git clone https://github.com/tillua467-s-Playground/proprietary_vendor_xiaomi_sm
 git clone https://github.com/tillua467-s-Playground/android_hardware_xiaomi hardware/xiaomi
 
 git clone https://github.com/tillua467-s-Playground/hardware_dolby hardware/dolby
+
+git clone https://github.com/tillua467-s-Playground/packages_apps_GameBar packages/apps/GameBar
