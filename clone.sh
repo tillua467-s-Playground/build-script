@@ -4,7 +4,7 @@ git clone https://github.com/tillua467-s-Playground/android_device_xiaomi_phoeni
 
 git clone https://github.com/tillua467-s-Playground/android_device_xiaomi_sm6150-common device/xiaomi/sm6150-common
 
-git clone https://github.com/tillua467-s-Playground/android_kernel_xiaomi_phoenix kernel/xiaomi/sm6150 -b slmk
+git clone https://github.com/tillua467-s-Playground/android_kernel_xiaomi_phoenix kernel/xiaomi/sm6150
 
 git clone https://github.com/tillua467-s-Playground/proprietary_vendor_xiaomi_phoenix vendor/xiaomi/phoenix
 
